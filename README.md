@@ -1,5 +1,14 @@
 # Boston Housing Prices Prediction
 
+## Predicting Median value of owner-occupied homes
+
+The aim of this assignment is to learn the application of machine learning algorithms to data sets. This involves learning what data means, how to handle data, training, cross validation, prediction, testing your model, etc.
+
+This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston Mass. It was obtained from the StatLib archive, and has been used extensively throughout the literature to benchmark algorithms. The data was originally published by Harrison, D. and Rubinfeld, D.L. Hedonic prices and the demand for clean air', J. Environ. Economics & Management, vol.5, 81-102, 1978.
+
+The dataset is small in size with only 506 cases. It can be used to predict the median value of a home, which is done here. There are 14 attributes in each case of the dataset. They are:
+
+
 In this kernel, I have built 7 regression models using Boston Housing Dataset. These are linear, polynomial, ridge, lasso, svr, decision tree and random forest regression. Then measured and visualized the performance of the models. 
 
 Attribute Information:
